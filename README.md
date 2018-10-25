@@ -1,1 +1,2 @@
-# Ajax-and-Fetch
+# Ajax and Fetch
+Study on Ajax and Fetch techniques.
