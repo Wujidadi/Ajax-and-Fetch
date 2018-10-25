@@ -1,5 +1,5 @@
 /* jQuery 的 Ajax 方法 */
-$(document).ready(function() {      // 這一行和第 10 行不寫，效果是一樣的
+$(document).ready(function() {      // 這一行和第 10 行不寫（直接呼叫 btn01 的 click 事件），效果是一樣的
     $('#btn01').click(function() {
         htmlobj = $.ajax({
             url: 'jQuery_Ajax_test1.txt',
